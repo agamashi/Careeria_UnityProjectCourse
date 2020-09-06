@@ -4,8 +4,7 @@
 | ------------- | ------------- | ------------- |
 | 37  | 7.9.2020 (Lähiopetus) | Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä.  |
 | 37  | 8.9.2020 (Lähiopetus)  | Peliprojektien ketterää kehittämistä, GitHub repon luonti, peliprojekti ryhmätyönä (mitä kannattaa huomioida, miten valmistautua yms.), versiohallinta, projektien dokumenttien luontia |
-| 37  | 9.9.2020 (Lähiopetus)  | Dokumenttien luontia, projektin aloittamista ja dokumenttien tarkistamista. 
-Kuinka pitchata peliä julkaisijoille ja investoreille |
+| 37  | 9.9.2020 (Lähiopetus)  | Dokumenttien luontia, projektin aloittamista ja dokumenttien tarkistamista. Kuinka pitchata peliä julkaisijoille ja investoreille |
 | 38  | 14.9.2020 (Lähiopetus) | Dokumenttien tarkistamista ja luontia. Pelin julkaiseminen Google Play alustalle ja / tai Steamiin (teoriaa, miten se käytännössä toimii) |
 | 38  | 15.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Pelin tallennus pilveen ja koneelle (Save / Load systeemi) |
 | 39  | 21.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Unityssä debuggausta, optimointia (profiler) |
