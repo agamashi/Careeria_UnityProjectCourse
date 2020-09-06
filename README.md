@@ -1,12 +1,11 @@
 # Careeria_UnityProjectCourse
 
+| Week | Date | Topic |
+| ------------- | ------------- | ------------- |
+| 37  | 7.9.2020 (Lähiopetus)  | Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä.  |
+| Content Cell  | Content Cell  | Content Cell  |
 
-Week
-Date
-Topic
-37
-7.9.2020 (Lähiopetus)
-Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä. 
+
 37 
 8.9.2020
 (Lähiopetus)
