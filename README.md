@@ -3,7 +3,7 @@
 | Week | Date | Topic |
 | ------------- | ------------- | ------------- |
 | 37  | 7.9.2020 (Lähiopetus) | Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä.  |
-| 37  | 8.9.2020 (Lähiopetus)  | Peliprojektien ketterää kehittämistä, GitHub repon luonti, peliprojekti ryhmätyönä (mitä kannattaa huomioida, miten valmistautua yms.), versiohallinta, projektien dokumenttien luontia |
+| 37  | 8.9.2020 (Lähiopetus)  | Peliprojektien ketterää kehittämistä, GitHub repon luonti, peliprojekti ryhmätyönä (mitä kannattaa huomioida, miten valmistautua yms.)|
 | 37  | 9.9.2020 (Lähiopetus)  | Dokumenttien luontia, projektin aloittamista ja dokumenttien tarkistamista. 
 Kuinka pitchata peliä julkaisijoille ja investoreille
  |
