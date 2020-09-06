@@ -2,6 +2,14 @@
 
 Tähän repositorioon lisätään kaikki mahdolliset esimerkit jotka käydään läpi kurssilla. Täältä löytää myös kätevästi dokumenteille aloitus pohjat!
 
+## Discord
+
+Discord kanavalle lisätään kurssin materiaaleja ja sieltä saa parhaiten kiinni mikäli apua tarvitsee!
+
+Discordiin voidaan myös lisätä hyödyllisiä linkkejä, puheita ja assetteja joista voi olla apua nyt tai tulevaisuudessa!
+
+https://discord.gg/Ynpte6z
+
 ## Aikataulu
 
 | Week | Date | Topic |
