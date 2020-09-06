@@ -1,4 +1,8 @@
-# Careeria_UnityProjectCourse
+# Unity Projekti Kurssi Syksy 2020
+
+Tähän repositorioon lisätään kaikki mahdolliset esimerkit jotka käydään läpi kurssilla. Täältä löytää myös kätevästi dokumenteille aloitus pohjat!
+
+## Aikataulu
 
 | Week | Date | Topic |
 | ------------- | ------------- | ------------- |
@@ -12,4 +16,3 @@
 | 41 | 5.10.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. |
 | 41 | 9.10.2020 (Etäopetus)  | Ehdotuksia? Mahdollinen vierailija. Projektin parissa työskentelyä. Projektien tarkastus ennen lomaa ja deadlineä. |
 | 43 | 21.10.2020 (Lähipetus) | Projektien deadline ja esittelyt. Peli pitchataan “julkaisijalle/investorille”, esitetään laaditut dokumentit ja suunnitelmat. Esittelyä varten pitäisi olla pelattava prototyyppi pelistä sekä tarvittavat dokumentit. Esittelyn jälkeen keskustellaan projekti ryhmien kanssa erikseen miten he pärjäsivät omasta mielestä, mitä haasteita oli ja mitä he haluaisivat tulevaisuudessa parantaa. Lopussa käydään läpi heidän versiohallinta historia ja annetaan siitä palautetta.  |
-
