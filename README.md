@@ -4,6 +4,11 @@ Tähän repositorioon lisätään kaikki mahdolliset esimerkit jotka käydään 
 
 ## Lopputyö
 
+Lopputyön deadline ja esityspäivä on 21.10.2020. 
+Suosittelen tekemään kaikki pakolliset dokumentit 9.10.2020 mennessä, jolloin voidaan tarkistaa ja käydä läpi dokumentit yhdessä ennen virallista myyntipuhetta / pitchiä.
+9.10.2020 tulee mahdollisesti myös vieras puhumaan pelin myynnisä ja pelialasta, joten hänelle voitte myös esitellä teidän peliprojekteja.
+Suosittelen päivittämään Portfoliot 9.10.2020 tuntia varten!!!
+
 Lopputyöhön tarvittavat dokumentit ja tiedot löydät [tästä PDF tiedostosta](https://github.com/agamashi/Careeria_UnityProjectCourse/blob/master/Unity%20Project%20Syksy%202020%20Lopputy%C3%B6%20info%20(1).pdf)
 
 ## Discord
