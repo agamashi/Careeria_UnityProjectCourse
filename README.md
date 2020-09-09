@@ -2,6 +2,10 @@
 
 Tähän repositorioon lisätään kaikki mahdolliset esimerkit jotka käydään läpi kurssilla. Täältä löytää myös kätevästi dokumenteille aloitus pohjat!
 
+## Lopputyö
+
+Lopputyöhön tarvittavat dokumentit ja tiedot löydät ![Tästä PDF tiedostosta](https://github.com/agamashi/Careeria_UnityProjectCourse/blob/master/Unity%20Project%20Syksy%202020%20Lopputy%C3%B6%20info.pdf)
+
 ## Discord
 
 Discord kanavalle lisätään kurssin materiaaleja ja sieltä saa parhaiten kiinni mikäli apua tarvitsee!
