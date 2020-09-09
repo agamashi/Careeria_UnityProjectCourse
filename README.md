@@ -4,7 +4,7 @@ Tähän repositorioon lisätään kaikki mahdolliset esimerkit jotka käydään 
 
 ## Lopputyö
 
-Lopputyöhön tarvittavat dokumentit ja tiedot löydät ![Tästä PDF tiedostosta](https://github.com/agamashi/Careeria_UnityProjectCourse/blob/master/Unity%20Project%20Syksy%202020%20Lopputy%C3%B6%20info.pdf)
+Lopputyöhön tarvittavat dokumentit ja tiedot löydät [tästä PDF tiedostosta](https://github.com/agamashi/Careeria_UnityProjectCourse/blob/master/Unity%20Project%20Syksy%202020%20Lopputy%C3%B6%20info.pdf)
 
 ## Discord
 
