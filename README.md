@@ -21,9 +21,9 @@ https://discord.gg/Ynpte6z
 
 ## Aikataulu
 
-| Week | Date | Topic |
-| ------------- | ------------- | ------------- |
-| 37 | 7.9.2020 (Lähiopetus) | Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä.  |
+| Week | Date | Topic | Materials |
+| ------------- | ------------- | ------------- | ------------- | 
+| 37 | 7.9.2020 (Lähiopetus) | Kurssin esittely, ryhmiin jakaminen ja loppupäivä peliprojekti dokumenttien läpikäyntiä.  | [7.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/blob/master/Unity%20Project%20-%20Kurssin%20sis%C3%A4lt%C3%B6%20%26%20dokumenttien%20l%C3%A4pik%C3%A4ynti%C3%A4%20(7.9.2020).pdf) |
 | 37 | 8.9.2020 (Lähiopetus)  | Peliprojektien ketterää kehittämistä, GitHub repon luonti, peliprojekti ryhmätyönä (mitä kannattaa huomioida, miten valmistautua yms.), versiohallinta, projektien dokumenttien luontia |
 | 37 | 9.9.2020 (Lähiopetus)  | Dokumenttien luontia, projektin aloittamista ja dokumenttien tarkistamista. Kuinka pitchata peliä julkaisijoille ja investoreille |
 | 38 | 14.9.2020 (Etäopetus) | Projektityöskentelyä. Pelin julkaiseminen Google Play alustalle ja / tai Steamiin (teoriaa, miten se käytännössä toimii), Loot box systeemin luonti |
