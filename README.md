@@ -27,7 +27,7 @@ https://discord.gg/Ynpte6z
 | 37 | 8.9.2020 (Lähiopetus)  | Peliprojektien ketterää kehittämistä, GitHub repon luonti, peliprojekti ryhmätyönä (mitä kannattaa huomioida, miten valmistautua yms.), versiohallinta, projektien dokumenttien luontia | [8.9.2020 & 9.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materials%20-%208.9.2020%20%26%209.9.2020.pdf) |
 | 37 | 9.9.2020 (Lähiopetus)  | Dokumenttien luontia, projektin aloittamista ja dokumenttien tarkistamista. Kuinka pitchata peliä julkaisijoille ja investoreille | [8.9.2020 & 9.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materials%20-%208.9.2020%20%26%209.9.2020.pdf) | 
 | 38 | 14.9.2020 (Etäopetus) | Projektityöskentelyä. Pelin julkaiseminen Google Play alustalle ja / tai Steamiin (teoriaa, miten se käytännössä toimii), Loot box systeemin luonti | [14.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materials%20-%2014.9.2020.pdf) |
-| 38 | 15.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Pelin tallennus pilveen ja koneelle (Save / Load systeemi) |
+| 38 | 15.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Pelin tallenusta ja lataamista (Save / Load systeemi) |
 | 39 | 21.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Unityssä debuggausta, optimointia (profiler) |
 | 40 | 28.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. (Network koodausta, uNet ja Photon) |
 | 41 | 5.10.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Monetisaatio, mainosten lisäys peleihin |
