@@ -36,10 +36,12 @@ https://discord.gg/Ynpte6z
 
 
 | Nimi | Rooli | päivä | tunti | aihe |
+| ------------- | ------------- | ------------- | ------------- |  ------------- |
 | henkilö | artisti | 14.9.2020 | 4h | jotain |
 | henkilö | artisti | 15.9.2020 | 4h | jotain muuta | 
 
 
 | Nimi | Rooli | päivä | tunti | aihe |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | henkilö 2 | ohjelmoija | 14.9.2020 | 6h | jotain |
 | henkilö 2 | ohjelmoija | 15.9.2020 | 6h | jotain muuta | 
