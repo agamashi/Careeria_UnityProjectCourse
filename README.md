@@ -30,6 +30,6 @@ https://discord.gg/Ynpte6z
 | 38 | 15.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Pelin tallenusta ja lataamista (Save / Load systeemi) | [15.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materias%20-%2015.9.2020.pdf)
 | 39 | 21.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Unityssä debuggausta, optimointia (profiler) |
 | 40 | 28.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. (Network koodausta, uNet ja Photon) |
-| 41 | 5.10.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Monetisaatio, mainosten lisäys peleihin |
+| 41 | 5.10.2020 (Lähiopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Monetisaatio, mainosten lisäys peleihin |
 | 41 | 9.10.2020 (Lähiopetus)  | Ehdotuksia? Mahdollinen vierailija. Projektin parissa työskentelyä. Projektien tarkastus ennen lomaa ja deadlineä. |
 | 43 | 21.10.2020 (Lähiopetus) | Projektien deadline ja esittelyt. Peli pitchataan “julkaisijalle/investorille”, esitetään laaditut dokumentit ja suunnitelmat. Esittelyä varten pitäisi olla pelattava prototyyppi pelistä sekä tarvittavat dokumentit. Esittelyn jälkeen keskustellaan projekti ryhmien kanssa erikseen miten he pärjäsivät omasta mielestä, mitä haasteita oli ja mitä he haluaisivat tulevaisuudessa parantaa. Lopussa käydään läpi heidän versiohallinta historia ja annetaan siitä palautetta.  |
