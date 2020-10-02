@@ -29,7 +29,7 @@ https://discord.gg/Ynpte6z
 | 38 | 14.9.2020 (Etäopetus) | Projektityöskentelyä. Pelin julkaiseminen Google Play alustalle ja / tai Steamiin (teoriaa, miten se käytännössä toimii), Loot box systeemin luonti | [14.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materials%20-%2014.9.2020.pdf) |
 | 38 | 15.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Pelin tallenusta ja lataamista (Save / Load systeemi) | [15.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materias%20-%2015.9.2020.pdf)
 | 39 | 21.9.2020 (Etäopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Unityssä debuggausta ja  optimointia | [21.9.2020 Materiaalit](https://github.com/agamashi/Careeria_UnityProjectCourse/raw/master/Materiaalit/Unity%20Project%20Course%20Materials%20-%2021.9.2020.pdf) | 
-| 40 | 28.9.2020 (Etäopetus) | Network koodaust: Photon |
+| 40 | 28.9.2020 (Etäopetus) | Network koodausta: Photon |
 | 40 | 1.10.2020 (Etäopetus) | Ryhmä 1 projektin läpikäynti ja ohjeet |
 | 40 | 2.10.2020 (Etäopetus) | Ryhmä 2 projektin läpikäynti ja ohjeet |
 | 41 | 5.10.2020 (Lähiopetus)  | Ehdotuksia? Projektin parissa työskentelyä. Monetisaatio, mainosten lisäys peleihin |
